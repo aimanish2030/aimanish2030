@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Manish Kumar
 
-<!--
-**aimanish2030/aimanish2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
+💻 Aspiring Machine Learning Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🏠 House Price Prediction
+
+* End-to-end ML project using Linear Regression
+* Built with Flask & Gradio
+* Live Demo: https://huggingface.co/spaces/aimanish2030/house-price-prediction
+
+---
+
+## 🛠 Skills
+
+* Python
+* Machine Learning
+* Pandas
+* NumPy
+* Scikit-learn
+* Flask
+* Git & GitHub
+
+---
+
+## 📫 Connect with me
+
+* GitHub: https://github.com/aimanish2030
+* LinkedIn: https://www.linkedin.com/in/manish-kumar-pandit-99977538a/
+
+---
+
+⭐ Always learning and building ML projects 🚀
