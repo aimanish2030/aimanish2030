@@ -1,7 +1,7 @@
 # Hi 👋, I'm Manish Kumar
 
 🎓 BCA Student
-💻 Aspiring Machine Learning Engineer
+💻 Aspiring Machine Learning 
 
 ---
 
